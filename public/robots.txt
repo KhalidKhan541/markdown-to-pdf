@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markdown-to-pdf-8ew.pages.dev/sitemap.xml
